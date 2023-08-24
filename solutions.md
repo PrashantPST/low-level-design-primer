@@ -9,7 +9,6 @@ Question | Solutions | Videos
 | Design In-memory data streaming service| [Solution-1](https://medium.com/@tg6897/design-in-memory-streams-e47e49068028)
 | Implement a logger | [Solution-1](https://github.com/coding-parrot/projects/blob/master/java-projects/src/main/java/logger/LogClient.java) | [Video-1](https://www.youtube.com/watch?v=FKA2KgkkcqY)
 | Design Chess Game | [Solution-1](https://github.com/anomaly2104/chess-low-level-system-design) [Solution-2](https://www.geeksforgeeks.org/design-a-chess-game/)  | [Video-1](https://www.youtube.com/watch?v=RVHNcng0oF0) [Video-2](https://www.youtube.com/watch?v=yBsWza2039o)
-| Design Cache system | [Solution-1](https://github.com/anomaly2104/cache-low-level-system-design) | [Video-1](https://www.youtube.com/watch?v=B7iCXl_KSoM)
 | In-Memory DB with indexing| [Solution-1](https://medium.com/@tg6897/design-in-memory-db-with-indexing-52d33adceb91)
 |Design an online book reader system | [Solution-1](https://www.geeksforgeeks.org/design-an-online-book-reader-system/) [Solution-2](https://leetcode.com/discuss/interview-question/object-oriented-design/124750/Design-an-online-book-reader-system) | - 
 | Design a Logistics System | [Solution-1](https://www.geeksforgeeks.org/design-a-logistics-system/) | - | - | -
