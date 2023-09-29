@@ -3,7 +3,6 @@
 Question | Solutions | Videos 
 | :---:   | :-: | :-: 
 |Design True caller |[Solution-1](https://github.com/gopalbala/truecaller) | [Video-1](https://www.youtube.com/watch?v=3KSLh_hvwtQ)  |  
-| Design Amazon Locker Service | [Solution-1](https://github.com/gopalbala/amazonlocker) [Solution-2](https://leetcode.com/discuss/interview-question/object-oriented-design/260467/Amazon-or-Design-a-locker)| [Video-1](https://www.youtube.com/watch?v=hsx562pXWS8&t=209s) 
 | Design Vehicle / Car Rental Application like Zoomcar | [Solution-1](https://github.com/gopalbala/carrental)| [Video-1](https://www.youtube.com/watch?v=kQ8MwyESL_k&t=4542s) 
 | Design Distributed Id Generation like Twitter Snowflake id | [Solution-1](https://github.com/gopalbala/distributed-idgen)| [Video-1](https://www.youtube.com/watch?v=ubxRZx-T2Bc)
 | Design In-memory data streaming service| [Solution-1](https://medium.com/@tg6897/design-in-memory-streams-e47e49068028)
